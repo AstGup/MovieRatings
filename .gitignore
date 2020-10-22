@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 bestofrt.tsv
+.DS_Store
+Top 100 Movie Reviews.csv
